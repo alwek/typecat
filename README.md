@@ -1,2 +1,2 @@
 # typecat
-Why fetch system information in terminal when cat is all you need?
+Why let computer print content in terminal when cat can translate for you?
